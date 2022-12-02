@@ -1,5 +1,11 @@
 const App = () => {
-	return <div className="App"></div>;
+	return (
+		<>
+			<header></header>
+			<main></main>
+			<footer></footer>
+		</>
+	);
 };
 
 export default App;
